@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "context": "client",
+  "identifier": "com.pa.kiwi.comtrollicon",
+  "display_name": "Strategic Troll Icon - Commander",
+  "build": "76557",
+  "date": "2014/12/26",
+  "description": "Replaces commander icon with a troll face.",
+  "category": [
+        "in-game",
+        "client-mod",
+    "Strategic-icons"
+    ],
+  "author": "KillerKiwiJuice",
+  "version": "1.0",
+  "signature": "not yet implemented",
+  "forum": "https://forums.uberent.com/threads/rel-strategic-troll-icon.66786/",
+  "icon": "http://i.imgur.com/BomvuqV.png",
+  "priority": 100
+}
